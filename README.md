@@ -20,7 +20,13 @@ Now, we can print out the coordinates of the location we have created.
 Latitude = 48.85614465, Longitude = 2.29782039332223
 ```
 
-# Geocoding List Address
+# Geocoding List Address(Geocoding addresses from Pandas)
+Now you can make your excell CSV file for your adresses and read it in Pandas.
+```
+df = pd.read_csv(“addresses.csv”)
+df.head()
+```
+
 # Show physical addresses in Google Map
 
 
