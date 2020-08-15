@@ -1,7 +1,7 @@
 # Geocode-with-Python
 Convert physical addresses to Geographic locations
 # installing
-install these libraries with Pip if you have already Anaconda environment setup:
+install these libraries with pip if you have already Anaconda environment setup:
 * pip install geopandas
 * pip install geopy
 # Geocoding Single Address
@@ -28,7 +28,8 @@ df.head()
 ```
 
 # Show physical addresses in Google Map
-
+install `gmplot` library with pip:
+*pip install gmplot
 
 
 
