@@ -29,7 +29,7 @@ df.head()
 
 # Show physical addresses in Google Map
 install `gmplot` library with pip:
-* pip install gmplot
+* pip install gmplot e
 
 
 
